@@ -14,5 +14,5 @@ int main()
     printf("разность двух веденных чисел = %d\n", a-b);
 
 
-    return 0;
+    return 1;
 }
