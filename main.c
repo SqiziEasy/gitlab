@@ -1,5 +1,6 @@
 #include <stdio.h>
 
+//комментарий
 int main()
 {
     int a, b;
@@ -11,8 +12,5 @@ int main()
 
     printf("сумма двух веденных чисел = %d\n", a+b);
 
-    printf("разность двух веденных чисел = %d\n", a-b);
-
-
-    return 1;
+    return 0;
 }
